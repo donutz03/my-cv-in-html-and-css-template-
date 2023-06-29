@@ -1,2 +1,2 @@
 # my-cv-in-html-and-css-template-
-acesta este un sablon pt cv facut de mine de la 0 in html si css
+acesta este un sablon pt cv facut de mine de la 0 in html si css folosind un design de pe figma
